@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andreas.rheinlaender@gmail.com
+	name = Andreas Rheinlaender
